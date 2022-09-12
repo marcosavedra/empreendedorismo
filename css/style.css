@@ -30,7 +30,7 @@ body {
 
 .logo {
     margin-left: 5px;
-    font-family: museoModerno;
+    font-family: ;
 }
 
 .im {
@@ -45,6 +45,7 @@ body {
 .text-im {
     margin-left: 40px;
     margin-right: 400px;
+    text-align: justify;
 }
 
 .bottons {
@@ -52,8 +53,4 @@ body {
     font-size: 14pt;
     font-family: 'Courier New', Courier, monospace;
     margin-left: 900px;
-}
-
-.bot {
-    
 }
